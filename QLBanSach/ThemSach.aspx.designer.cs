@@ -24,6 +24,15 @@ namespace QLBanSach
         protected global::System.Web.UI.ScriptManager ScriptManager1;
 
         /// <summary>
+        /// refTenSach control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator refTenSach;
+
+        /// <summary>
         /// txtTen control.
         /// </summary>
         /// <remarks>
@@ -31,6 +40,33 @@ namespace QLBanSach
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtTen;
+
+        /// <summary>
+        /// revtxtGia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator revtxtGia;
+
+        /// <summary>
+        /// reftxtGia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator reftxtGia;
+
+        /// <summary>
+        /// cvGia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator cvGia;
 
         /// <summary>
         /// txtDonGia control.
@@ -51,6 +87,15 @@ namespace QLBanSach
         protected global::System.Web.UI.WebControls.DropDownList ddlChuDe;
 
         /// <summary>
+        /// refFHinh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator refFHinh;
+
+        /// <summary>
         /// FHinh control.
         /// </summary>
         /// <remarks>
@@ -67,6 +112,15 @@ namespace QLBanSach
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.CheckBox chkKhuyenMai;
+
+        /// <summary>
+        /// vsLoi control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ValidationSummary vsLoi;
 
         /// <summary>
         /// btXuLy control.
